@@ -1,6 +1,7 @@
-# Elisabeth's Website
+#Elisabeth's Website
 
-##Favorite Places to eat in San Diego##
+##Favorite Places to eat in San Diego
+
 1.**Bahn Thai** (4646 Park Blvd, San Diego, CA 92116)
   1. Tasty little thai joint - my favorite is the yellow curry.
 1.**Ortiz's Taco Shop** (704 Voltaire St, San Diego, CA 92107)
