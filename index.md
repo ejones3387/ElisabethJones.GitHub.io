@@ -10,7 +10,7 @@ A few fun facts about me!
 ### Education & Employment
 * Undergraduate degree: Psychology, *Point Loma Nazarene University*
 * Graduate degree: Big Data Analytics, *San Diego State University* (current)
-* Work: Research Assistant, *The San Diego Association of Governments* (SANDAG)
+* Work: Research Assistant, *The San Diego Association of Governments* 
 
 ### Favorite places to eat in San Diego
 
