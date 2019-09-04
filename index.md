@@ -1,37 +1,10 @@
 # Elisabeth's Website
 
-You can use the [editor on GitHub](https://github.com/ejones3387/ElisabethJones.GitHub.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ejones3387/ElisabethJones.GitHub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##Favorite Places to eat in San Diego##
+1.**Bahn Thai** (4646 Park Blvd, San Diego, CA 92116)
+  1. Tasty little thai joint - my favorite is the yellow curry.
+1.**Ortiz's Taco Shop** (704 Voltaire St, San Diego, CA 92107)
+  1. Best veggie burrito in SD.
+1.**Parkhouse Eatery** (4574 Park Blvd, San Diego, CA 92116)
+  1. Delicious breakfast scrambles and bloody mary's! 
+ 
