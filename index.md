@@ -4,7 +4,7 @@ A few fun facts about me!
 ### Genreal Info 
 * Hometown: Upland, CA
 * Age: 23
-* Identifes as: Female
+* Pronouns: She, Her, Hers
 * Ethnicity: Mexican-American
 
 ### Education & Employment
